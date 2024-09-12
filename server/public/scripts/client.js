@@ -1,6 +1,6 @@
 function onReady() {
     console.log('Hello from client.js');
-
+console.log('testing');
     axios({
         method: 'GET',
         url: '/artist'
